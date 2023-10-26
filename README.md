@@ -1,6 +1,6 @@
 # MLOpsHackathonNov2023
 ## Introduction:
-Perspect is a performance quantification platform that calculates a developer’s soft & hard skills using AI and Machine Learning. Unlike LinkedIn, our product tracks skills in real-time from a holistic set of data sources.
+Perspect is a performance quantification platform that calculates a developer’s soft & hard skills. Unlike LinkedIn, our product tracks skills in real-time from a holistic set of data sources.
 A source that we want to include is meetings. Right now this is an untapped source of data that we can use to better inform assessments of skills. We have a meeting bot that can join meetings and provide transcripts for meetings.
 We have some real and some dummy data for meeting transcripts that are to be used for the purpose of this hackathon. 
 
