@@ -12,7 +12,7 @@ We have some real and some dummy data for meeting transcripts that are to be use
 * Be able to demo your solution at the end of the hackathon. 
 
 ## Details:
-* Data will be provided in a public s3 bucket. 
+* Data for meeting transcripts are in a public s3 bucket [meeting-transcripts](https://ml-hackathon-2023.s3.us-west-2.amazonaws.com/data/meeting-transcripts.zip).
 * Teams are recommended but not required. No teams bigger than 3 people allowed.
 * Submissions will be required to be pushed to Perspect’s public github repo to be considered.
 
