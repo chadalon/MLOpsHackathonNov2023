@@ -63,7 +63,7 @@ readDialogues();
 function askGod(question) {
   const params = {
     messages: [{ role: "user", content: question }],
-    model: "gpt-3.5-turbo",
+    model: "gpt-4",
   };
   client
     .post("https://api.openai.com/v1/chat/completions", params)
