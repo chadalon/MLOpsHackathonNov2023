@@ -1,0 +1,2893 @@
+[
+  {
+    "language": "en",
+    "speaker": "PM",
+    "words": [
+      {
+        "text": "Hey",
+        "start_timestamp": "0.27577",
+        "end_timestamp": "0.51528"
+      },
+      {
+        "text": "everyone,",
+        "start_timestamp": "0.70314",
+        "end_timestamp": "1.00136"
+      },
+      {
+        "text": "uh,",
+        "start_timestamp": "1.24788",
+        "end_timestamp": "1.59589"
+      },
+      {
+        "text": "thanks",
+        "start_timestamp": "2.04522",
+        "end_timestamp": "2.18781"
+      },
+      {
+        "text": "for",
+        "start_timestamp": "2.41824",
+        "end_timestamp": "2.52035"
+      },
+      {
+        "text": "hopping",
+        "start_timestamp": "2.99278",
+        "end_timestamp": "3.15468"
+      },
+      {
+        "text": "on",
+        "start_timestamp": "3.35944",
+        "end_timestamp": "3.58564"
+      },
+      {
+        "text": "this",
+        "start_timestamp": "3.83844",
+        "end_timestamp": "4.25385"
+      },
+      {
+        "text": "call",
+        "start_timestamp": "4.64010",
+        "end_timestamp": "5.09009"
+      },
+      {
+        "text": "at,",
+        "start_timestamp": "5.25939",
+        "end_timestamp": "5.44308"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "5.57885",
+        "end_timestamp": "5.82396"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "6.23729",
+        "end_timestamp": "6.40305"
+      },
+      {
+        "text": "such",
+        "start_timestamp": "6.88670",
+        "end_timestamp": "7.25224"
+      },
+      {
+        "text": "short",
+        "start_timestamp": "7.41053",
+        "end_timestamp": "7.65940"
+      },
+      {
+        "text": "notice.",
+        "start_timestamp": "8.15741",
+        "end_timestamp": "8.29363"
+      },
+      {
+        "text": "We've",
+        "start_timestamp": "8.56797",
+        "end_timestamp": "9.04300"
+      },
+      {
+        "text": "got,",
+        "start_timestamp": "9.34817",
+        "end_timestamp": "9.78578"
+      },
+      {
+        "text": "um,",
+        "start_timestamp": "10.11161",
+        "end_timestamp": "10.24516"
+      },
+      {
+        "text": "something",
+        "start_timestamp": "10.60180",
+        "end_timestamp": "11.06775"
+      },
+      {
+        "text": "pretty",
+        "start_timestamp": "11.24478",
+        "end_timestamp": "11.34935"
+      },
+      {
+        "text": "exciting",
+        "start_timestamp": "11.56212",
+        "end_timestamp": "11.79168"
+      },
+      {
+        "text": "on",
+        "start_timestamp": "12.24368",
+        "end_timestamp": "12.71086"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "13.09780",
+        "end_timestamp": "13.35428"
+      },
+      {
+        "text": "horizon,",
+        "start_timestamp": "13.78811",
+        "end_timestamp": "14.01320"
+      },
+      {
+        "text": "and",
+        "start_timestamp": "14.15682",
+        "end_timestamp": "14.29468"
+      },
+      {
+        "text": "I",
+        "start_timestamp": "14.55450",
+        "end_timestamp": "14.71913"
+      },
+      {
+        "text": "wanted",
+        "start_timestamp": "15.19722",
+        "end_timestamp": "15.51067"
+      },
+      {
+        "text": "to",
+        "start_timestamp": "15.91155",
+        "end_timestamp": "16.29210"
+      },
+      {
+        "text": "get",
+        "start_timestamp": "16.63286",
+        "end_timestamp": "16.98322"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "17.41751",
+        "end_timestamp": "17.65316"
+      },
+      {
+        "text": "all",
+        "start_timestamp": "18.03073",
+        "end_timestamp": "18.24429"
+      },
+      {
+        "text": "briefed",
+        "start_timestamp": "18.46718",
+        "end_timestamp": "18.81196"
+      },
+      {
+        "text": "as",
+        "start_timestamp": "19.03702",
+        "end_timestamp": "19.18033"
+      },
+      {
+        "text": "soon",
+        "start_timestamp": "19.51835",
+        "end_timestamp": "19.85358"
+      },
+      {
+        "text": "as",
+        "start_timestamp": "19.98739",
+        "end_timestamp": "20.43081"
+      },
+      {
+        "text": "possible.",
+        "start_timestamp": "20.92578",
+        "end_timestamp": "21.39784"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "Jordan",
+    "words": [
+      {
+        "text": "No",
+        "start_timestamp": "23.05993",
+        "end_timestamp": "23.48401"
+      },
+      {
+        "text": "problem!",
+        "start_timestamp": "23.84827",
+        "end_timestamp": "24.27521"
+      },
+      {
+        "text": "Always",
+        "start_timestamp": "24.41723",
+        "end_timestamp": "24.74486"
+      },
+      {
+        "text": "up",
+        "start_timestamp": "25.08106",
+        "end_timestamp": "25.42892"
+      },
+      {
+        "text": "for,",
+        "start_timestamp": "25.67529",
+        "end_timestamp": "26.10292"
+      },
+      {
+        "text": "like,",
+        "start_timestamp": "26.27765",
+        "end_timestamp": "26.75990"
+      },
+      {
+        "text": "new",
+        "start_timestamp": "27.13055",
+        "end_timestamp": "27.28457"
+      },
+      {
+        "text": "stuff.",
+        "start_timestamp": "27.56974",
+        "end_timestamp": "27.87759"
+      },
+      {
+        "text": "What’s",
+        "start_timestamp": "28.27862",
+        "end_timestamp": "28.40212"
+      },
+      {
+        "text": "the,",
+        "start_timestamp": "28.55969",
+        "end_timestamp": "28.91770"
+      },
+      {
+        "text": "uh,",
+        "start_timestamp": "29.10420",
+        "end_timestamp": "29.48215"
+      },
+      {
+        "text": "big",
+        "start_timestamp": "29.62863",
+        "end_timestamp": "29.92590"
+      },
+      {
+        "text": "news?",
+        "start_timestamp": "30.20575",
+        "end_timestamp": "30.35689"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "PM",
+    "words": [
+      {
+        "text": "So,",
+        "start_timestamp": "30.44917",
+        "end_timestamp": "30.87253"
+      },
+      {
+        "text": "we've",
+        "start_timestamp": "31.33119",
+        "end_timestamp": "31.80176"
+      },
+      {
+        "text": "just,",
+        "start_timestamp": "32.10246",
+        "end_timestamp": "32.34915"
+      },
+      {
+        "text": "um,",
+        "start_timestamp": "32.58802",
+        "end_timestamp": "32.90941"
+      },
+      {
+        "text": "secured",
+        "start_timestamp": "33.17295",
+        "end_timestamp": "33.29494"
+      },
+      {
+        "text": "a",
+        "start_timestamp": "33.51497",
+        "end_timestamp": "33.83838"
+      },
+      {
+        "text": "new",
+        "start_timestamp": "34.17521",
+        "end_timestamp": "34.32998"
+      },
+      {
+        "text": "project.",
+        "start_timestamp": "34.46533",
+        "end_timestamp": "34.59624"
+      },
+      {
+        "text": "It's",
+        "start_timestamp": "34.76808",
+        "end_timestamp": "35.07718"
+      },
+      {
+        "text": "a,",
+        "start_timestamp": "35.48967",
+        "end_timestamp": "35.80781"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "36.09403",
+        "end_timestamp": "36.45179"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "36.66700",
+        "end_timestamp": "36.95559"
+      },
+      {
+        "text": "a",
+        "start_timestamp": "37.13269",
+        "end_timestamp": "37.30574"
+      },
+      {
+        "text": "big",
+        "start_timestamp": "37.64363",
+        "end_timestamp": "37.98959"
+      },
+      {
+        "text": "one.",
+        "start_timestamp": "38.13026",
+        "end_timestamp": "38.32022"
+      },
+      {
+        "text": "We're",
+        "start_timestamp": "38.55537",
+        "end_timestamp": "39.00686"
+      },
+      {
+        "text": "going",
+        "start_timestamp": "39.35166",
+        "end_timestamp": "39.59221"
+      },
+      {
+        "text": "to",
+        "start_timestamp": "39.82768",
+        "end_timestamp": "40.30021"
+      },
+      {
+        "text": "be",
+        "start_timestamp": "40.76810",
+        "end_timestamp": "41.09108"
+      },
+      {
+        "text": "building",
+        "start_timestamp": "41.51360",
+        "end_timestamp": "41.77447"
+      },
+      {
+        "text": "a,",
+        "start_timestamp": "41.87660",
+        "end_timestamp": "42.25677"
+      },
+      {
+        "text": "uh,",
+        "start_timestamp": "42.74408",
+        "end_timestamp": "42.98219"
+      },
+      {
+        "text": "mobile",
+        "start_timestamp": "43.28583",
+        "end_timestamp": "43.74805"
+      },
+      {
+        "text": "app",
+        "start_timestamp": "44.21579",
+        "end_timestamp": "44.40539"
+      },
+      {
+        "text": "for",
+        "start_timestamp": "44.65924",
+        "end_timestamp": "45.03374"
+      },
+      {
+        "text": "a",
+        "start_timestamp": "45.45210",
+        "end_timestamp": "45.90413"
+      },
+      {
+        "text": "retail",
+        "start_timestamp": "46.35964",
+        "end_timestamp": "46.83366"
+      },
+      {
+        "text": "chain",
+        "start_timestamp": "47.28787",
+        "end_timestamp": "47.60857"
+      },
+      {
+        "text": "to,",
+        "start_timestamp": "47.99680",
+        "end_timestamp": "48.17251"
+      },
+      {
+        "text": "like,",
+        "start_timestamp": "48.39611",
+        "end_timestamp": "48.70099"
+      },
+      {
+        "text": "enhance",
+        "start_timestamp": "49.04399",
+        "end_timestamp": "49.30144"
+      },
+      {
+        "text": "their",
+        "start_timestamp": "49.46487",
+        "end_timestamp": "49.93057"
+      },
+      {
+        "text": "online",
+        "start_timestamp": "50.40187",
+        "end_timestamp": "50.71404"
+      },
+      {
+        "text": "shopping",
+        "start_timestamp": "51.16502",
+        "end_timestamp": "51.45745"
+      },
+      {
+        "text": "experience.",
+        "start_timestamp": "51.68918",
+        "end_timestamp": "52.12830"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "Casey",
+    "words": [
+      {
+        "text": "Oh,",
+        "start_timestamp": "54.53341",
+        "end_timestamp": "54.87538"
+      },
+      {
+        "text": "cool.",
+        "start_timestamp": "55.19551",
+        "end_timestamp": "55.62827"
+      },
+      {
+        "text": "Sounds,",
+        "start_timestamp": "55.99657",
+        "end_timestamp": "56.44544"
+      },
+      {
+        "text": "like,",
+        "start_timestamp": "56.58688",
+        "end_timestamp": "56.94518"
+      },
+      {
+        "text": "interesting.",
+        "start_timestamp": "57.15543",
+        "end_timestamp": "57.38436"
+      },
+      {
+        "text": "What",
+        "start_timestamp": "57.57523",
+        "end_timestamp": "58.03729"
+      },
+      {
+        "text": "sort",
+        "start_timestamp": "58.52423",
+        "end_timestamp": "58.84297"
+      },
+      {
+        "text": "of,",
+        "start_timestamp": "58.96787",
+        "end_timestamp": "59.16624"
+      },
+      {
+        "text": "um,",
+        "start_timestamp": "59.66260",
+        "end_timestamp": "59.84080"
+      },
+      {
+        "text": "features",
+        "start_timestamp": "60.24259",
+        "end_timestamp": "60.68277"
+      },
+      {
+        "text": "are",
+        "start_timestamp": "60.89426",
+        "end_timestamp": "61.05508"
+      },
+      {
+        "text": "they",
+        "start_timestamp": "61.23681",
+        "end_timestamp": "61.66866"
+      },
+      {
+        "text": "looking",
+        "start_timestamp": "62.12277",
+        "end_timestamp": "62.31581"
+      },
+      {
+        "text": "for?",
+        "start_timestamp": "62.73095",
+        "end_timestamp": "63.14754"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "PM",
+    "words": [
+      {
+        "text": "They're",
+        "start_timestamp": "64.69812",
+        "end_timestamp": "65.18198"
+      },
+      {
+        "text": "really",
+        "start_timestamp": "65.67504",
+        "end_timestamp": "66.07372"
+      },
+      {
+        "text": "focusing",
+        "start_timestamp": "66.28636",
+        "end_timestamp": "66.42170"
+      },
+      {
+        "text": "on,",
+        "start_timestamp": "66.80131",
+        "end_timestamp": "67.07593"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "67.55689",
+        "end_timestamp": "67.80472"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "68.10131",
+        "end_timestamp": "68.39620"
+      },
+      {
+        "text": "user",
+        "start_timestamp": "68.75516",
+        "end_timestamp": "68.99936"
+      },
+      {
+        "text": "experience.",
+        "start_timestamp": "69.47224",
+        "end_timestamp": "69.90238"
+      },
+      {
+        "text": "So,",
+        "start_timestamp": "70.34576",
+        "end_timestamp": "70.82280"
+      },
+      {
+        "text": "we're",
+        "start_timestamp": "71.30236",
+        "end_timestamp": "71.64637"
+      },
+      {
+        "text": "talking",
+        "start_timestamp": "71.82576",
+        "end_timestamp": "72.28639"
+      },
+      {
+        "text": "about",
+        "start_timestamp": "72.63271",
+        "end_timestamp": "72.89732"
+      },
+      {
+        "text": "personalized",
+        "start_timestamp": "73.17011",
+        "end_timestamp": "73.38384"
+      },
+      {
+        "text": "shopping,",
+        "start_timestamp": "73.51995",
+        "end_timestamp": "73.99136"
+      },
+      {
+        "text": "uh,",
+        "start_timestamp": "74.24982",
+        "end_timestamp": "74.52437"
+      },
+      {
+        "text": "recommendations,",
+        "start_timestamp": "74.65587",
+        "end_timestamp": "75.04635"
+      },
+      {
+        "text": "AR",
+        "start_timestamp": "75.30525",
+        "end_timestamp": "75.57199"
+      },
+      {
+        "text": "for",
+        "start_timestamp": "76.01302",
+        "end_timestamp": "76.23017"
+      },
+      {
+        "text": "product",
+        "start_timestamp": "76.47356",
+        "end_timestamp": "76.75844"
+      },
+      {
+        "text": "previews,",
+        "start_timestamp": "76.96919",
+        "end_timestamp": "77.36101"
+      },
+      {
+        "text": "and,",
+        "start_timestamp": "77.60506",
+        "end_timestamp": "77.89580"
+      },
+      {
+        "text": "um,",
+        "start_timestamp": "78.12707",
+        "end_timestamp": "78.52042"
+      },
+      {
+        "text": "seamless",
+        "start_timestamp": "78.62359",
+        "end_timestamp": "78.74088"
+      },
+      {
+        "text": "checkout.",
+        "start_timestamp": "78.90787",
+        "end_timestamp": "79.29011"
+      },
+      {
+        "text": "It's",
+        "start_timestamp": "79.67336",
+        "end_timestamp": "79.88049"
+      },
+      {
+        "text": "quite",
+        "start_timestamp": "80.06838",
+        "end_timestamp": "80.29824"
+      },
+      {
+        "text": "cutting-edge.",
+        "start_timestamp": "80.42620",
+        "end_timestamp": "80.67505"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "Alex",
+    "words": [
+      {
+        "text": "Wow,",
+        "start_timestamp": "81.33453",
+        "end_timestamp": "81.55101"
+      },
+      {
+        "text": "AR",
+        "start_timestamp": "81.76383",
+        "end_timestamp": "82.04363"
+      },
+      {
+        "text": "is",
+        "start_timestamp": "82.27711",
+        "end_timestamp": "82.48562"
+      },
+      {
+        "text": "definitely,",
+        "start_timestamp": "82.61654",
+        "end_timestamp": "82.76571"
+      },
+      {
+        "text": "like,",
+        "start_timestamp": "82.92347",
+        "end_timestamp": "83.07187"
+      },
+      {
+        "text": "trendy",
+        "start_timestamp": "83.43751",
+        "end_timestamp": "83.85208"
+      },
+      {
+        "text": "right",
+        "start_timestamp": "84.03457",
+        "end_timestamp": "84.46278"
+      },
+      {
+        "text": "now.",
+        "start_timestamp": "84.84950",
+        "end_timestamp": "85.07347"
+      },
+      {
+        "text": "But,",
+        "start_timestamp": "85.50332",
+        "end_timestamp": "85.74933"
+      },
+      {
+        "text": "uh,",
+        "start_timestamp": "86.08292",
+        "end_timestamp": "86.32700"
+      },
+      {
+        "text": "it's",
+        "start_timestamp": "86.79007",
+        "end_timestamp": "86.96259"
+      },
+      {
+        "text": "also",
+        "start_timestamp": "87.30032",
+        "end_timestamp": "87.61867"
+      },
+      {
+        "text": "pretty",
+        "start_timestamp": "87.92005",
+        "end_timestamp": "88.39104"
+      },
+      {
+        "text": "complex.",
+        "start_timestamp": "88.73145",
+        "end_timestamp": "89.17530"
+      },
+      {
+        "text": "What’s",
+        "start_timestamp": "89.45291",
+        "end_timestamp": "89.78923"
+      },
+      {
+        "text": "our,",
+        "start_timestamp": "90.10718",
+        "end_timestamp": "90.36911"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "90.84759",
+        "end_timestamp": "91.33667"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "91.44207",
+        "end_timestamp": "91.90461"
+      },
+      {
+        "text": "timeline",
+        "start_timestamp": "92.26386",
+        "end_timestamp": "92.36827"
+      },
+      {
+        "text": "looking",
+        "start_timestamp": "92.48228",
+        "end_timestamp": "92.94376"
+      },
+      {
+        "text": "like?",
+        "start_timestamp": "93.19139",
+        "end_timestamp": "93.34770"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "PM",
+    "words": [
+      {
+        "text": "Yeah,",
+        "start_timestamp": "94.72053",
+        "end_timestamp": "95.15729"
+      },
+      {
+        "text": "I",
+        "start_timestamp": "95.50786",
+        "end_timestamp": "95.63153"
+      },
+      {
+        "text": "won't",
+        "start_timestamp": "95.80963",
+        "end_timestamp": "96.02371"
+      },
+      {
+        "text": "lie,",
+        "start_timestamp": "96.17284",
+        "end_timestamp": "96.41099"
+      },
+      {
+        "text": "it's",
+        "start_timestamp": "96.85433",
+        "end_timestamp": "97.02861"
+      },
+      {
+        "text": "tight.",
+        "start_timestamp": "97.44947",
+        "end_timestamp": "97.82000"
+      },
+      {
+        "text": "We've",
+        "start_timestamp": "98.16976",
+        "end_timestamp": "98.59673"
+      },
+      {
+        "text": "got",
+        "start_timestamp": "98.96405",
+        "end_timestamp": "99.31385"
+      },
+      {
+        "text": "about,",
+        "start_timestamp": "99.74110",
+        "end_timestamp": "99.90661"
+      },
+      {
+        "text": "um,",
+        "start_timestamp": "100.04162",
+        "end_timestamp": "100.25026"
+      },
+      {
+        "text": "four",
+        "start_timestamp": "100.50650",
+        "end_timestamp": "100.82716"
+      },
+      {
+        "text": "months",
+        "start_timestamp": "101.13200",
+        "end_timestamp": "101.62462"
+      },
+      {
+        "text": "to",
+        "start_timestamp": "101.74079",
+        "end_timestamp": "101.85399"
+      },
+      {
+        "text": "get",
+        "start_timestamp": "102.12571",
+        "end_timestamp": "102.34933"
+      },
+      {
+        "text": "a",
+        "start_timestamp": "102.48862",
+        "end_timestamp": "102.85082"
+      },
+      {
+        "text": "minimum",
+        "start_timestamp": "103.16638",
+        "end_timestamp": "103.65786"
+      },
+      {
+        "text": "viable",
+        "start_timestamp": "103.78066",
+        "end_timestamp": "104.11338"
+      },
+      {
+        "text": "product",
+        "start_timestamp": "104.54087",
+        "end_timestamp": "104.82838"
+      },
+      {
+        "text": "out.",
+        "start_timestamp": "105.28810",
+        "end_timestamp": "105.46042"
+      },
+      {
+        "text": "But,",
+        "start_timestamp": "105.73783",
+        "end_timestamp": "105.86570"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "106.29395",
+        "end_timestamp": "106.61438"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "106.95725",
+        "end_timestamp": "107.31096"
+      },
+      {
+        "text": "I'm",
+        "start_timestamp": "107.78757",
+        "end_timestamp": "108.21532"
+      },
+      {
+        "text": "confident",
+        "start_timestamp": "108.70940",
+        "end_timestamp": "109.16389"
+      },
+      {
+        "text": "we've",
+        "start_timestamp": "109.59838",
+        "end_timestamp": "109.98684"
+      },
+      {
+        "text": "got",
+        "start_timestamp": "110.11018",
+        "end_timestamp": "110.26650"
+      },
+      {
+        "text": "the,",
+        "start_timestamp": "110.60330",
+        "end_timestamp": "110.95972"
+      },
+      {
+        "text": "uh,",
+        "start_timestamp": "111.15433",
+        "end_timestamp": "111.27444"
+      },
+      {
+        "text": "talent",
+        "start_timestamp": "111.49687",
+        "end_timestamp": "111.98441"
+      },
+      {
+        "text": "to",
+        "start_timestamp": "112.20668",
+        "end_timestamp": "112.35536"
+      },
+      {
+        "text": "do",
+        "start_timestamp": "112.55178",
+        "end_timestamp": "112.69618"
+      },
+      {
+        "text": "it.",
+        "start_timestamp": "113.12928",
+        "end_timestamp": "113.51467"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "Sam",
+    "words": [
+      {
+        "text": "Four",
+        "start_timestamp": "115.09172",
+        "end_timestamp": "115.23913"
+      },
+      {
+        "text": "months",
+        "start_timestamp": "115.64228",
+        "end_timestamp": "115.76688"
+      },
+      {
+        "text": "is,",
+        "start_timestamp": "116.15050",
+        "end_timestamp": "116.39143"
+      },
+      {
+        "text": "like,",
+        "start_timestamp": "116.78524",
+        "end_timestamp": "117.14660"
+      },
+      {
+        "text": "really",
+        "start_timestamp": "117.28063",
+        "end_timestamp": "117.66448"
+      },
+      {
+        "text": "soon.",
+        "start_timestamp": "117.86252",
+        "end_timestamp": "118.29521"
+      },
+      {
+        "text": "Uh,",
+        "start_timestamp": "118.57197",
+        "end_timestamp": "118.74403"
+      },
+      {
+        "text": "do",
+        "start_timestamp": "119.21941",
+        "end_timestamp": "119.33413"
+      },
+      {
+        "text": "we",
+        "start_timestamp": "119.75936",
+        "end_timestamp": "119.98527"
+      },
+      {
+        "text": "have",
+        "start_timestamp": "120.33819",
+        "end_timestamp": "120.58804"
+      },
+      {
+        "text": "enough",
+        "start_timestamp": "121.04547",
+        "end_timestamp": "121.20025"
+      },
+      {
+        "text": "hands",
+        "start_timestamp": "121.44822",
+        "end_timestamp": "121.56424"
+      },
+      {
+        "text": "on",
+        "start_timestamp": "122.00276",
+        "end_timestamp": "122.46673"
+      },
+      {
+        "text": "deck",
+        "start_timestamp": "122.96278",
+        "end_timestamp": "123.28836"
+      },
+      {
+        "text": "for",
+        "start_timestamp": "123.45233",
+        "end_timestamp": "123.94295"
+      },
+      {
+        "text": "this?",
+        "start_timestamp": "124.12353",
+        "end_timestamp": "124.26127"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "PM",
+    "words": [
+      {
+        "text": "Good",
+        "start_timestamp": "125.91260",
+        "end_timestamp": "126.27124"
+      },
+      {
+        "text": "question,",
+        "start_timestamp": "126.54801",
+        "end_timestamp": "126.83212"
+      },
+      {
+        "text": "Sam.",
+        "start_timestamp": "127.15146",
+        "end_timestamp": "127.26390"
+      },
+      {
+        "text": "We're,",
+        "start_timestamp": "127.70655",
+        "end_timestamp": "128.00683"
+      },
+      {
+        "text": "um,",
+        "start_timestamp": "128.13617",
+        "end_timestamp": "128.51438"
+      },
+      {
+        "text": "bringing",
+        "start_timestamp": "128.71008",
+        "end_timestamp": "129.02399"
+      },
+      {
+        "text": "on",
+        "start_timestamp": "129.35945",
+        "end_timestamp": "129.55476"
+      },
+      {
+        "text": "a",
+        "start_timestamp": "129.89095",
+        "end_timestamp": "130.27345"
+      },
+      {
+        "text": "couple",
+        "start_timestamp": "130.58160",
+        "end_timestamp": "131.07736"
+      },
+      {
+        "text": "of",
+        "start_timestamp": "131.30162",
+        "end_timestamp": "131.73327"
+      },
+      {
+        "text": "contractors",
+        "start_timestamp": "132.18020",
+        "end_timestamp": "132.55060"
+      },
+      {
+        "text": "to",
+        "start_timestamp": "132.73424",
+        "end_timestamp": "132.96103"
+      },
+      {
+        "text": "help",
+        "start_timestamp": "133.08460",
+        "end_timestamp": "133.41501"
+      },
+      {
+        "text": "out.",
+        "start_timestamp": "133.56799",
+        "end_timestamp": "133.93746"
+      },
+      {
+        "text": "Plus,",
+        "start_timestamp": "134.15335",
+        "end_timestamp": "134.33265"
+      },
+      {
+        "text": "we'll",
+        "start_timestamp": "134.63261",
+        "end_timestamp": "134.92532"
+      },
+      {
+        "text": "be,",
+        "start_timestamp": "135.10017",
+        "end_timestamp": "135.50965"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "135.99427",
+        "end_timestamp": "136.34870"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "136.77710",
+        "end_timestamp": "137.16473"
+      },
+      {
+        "text": "using",
+        "start_timestamp": "137.42399",
+        "end_timestamp": "137.67704"
+      },
+      {
+        "text": "some",
+        "start_timestamp": "138.13246",
+        "end_timestamp": "138.63168"
+      },
+      {
+        "text": "agile",
+        "start_timestamp": "138.99925",
+        "end_timestamp": "139.14887"
+      },
+      {
+        "text": "methodologies",
+        "start_timestamp": "139.37271",
+        "end_timestamp": "139.72781"
+      },
+      {
+        "text": "to",
+        "start_timestamp": "139.91100",
+        "end_timestamp": "140.05389"
+      },
+      {
+        "text": "stay",
+        "start_timestamp": "140.41918",
+        "end_timestamp": "140.90330"
+      },
+      {
+        "text": "lean",
+        "start_timestamp": "141.11916",
+        "end_timestamp": "141.27267"
+      },
+      {
+        "text": "and,",
+        "start_timestamp": "141.64244",
+        "end_timestamp": "142.09207"
+      },
+      {
+        "text": "uh,",
+        "start_timestamp": "142.44227",
+        "end_timestamp": "142.69984"
+      },
+      {
+        "text": "move",
+        "start_timestamp": "143.06261",
+        "end_timestamp": "143.26827"
+      },
+      {
+        "text": "quickly.",
+        "start_timestamp": "143.70760",
+        "end_timestamp": "144.01486"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "Jordan",
+    "words": [
+      {
+        "text": "Agile's",
+        "start_timestamp": "146.34343",
+        "end_timestamp": "146.61961"
+      },
+      {
+        "text": "good.",
+        "start_timestamp": "146.94728",
+        "end_timestamp": "147.27189"
+      },
+      {
+        "text": "Keeps",
+        "start_timestamp": "147.42396",
+        "end_timestamp": "147.85988"
+      },
+      {
+        "text": "us",
+        "start_timestamp": "148.01433",
+        "end_timestamp": "148.15300"
+      },
+      {
+        "text": "on",
+        "start_timestamp": "148.48027",
+        "end_timestamp": "148.68839"
+      },
+      {
+        "text": "our",
+        "start_timestamp": "148.86973",
+        "end_timestamp": "149.21178"
+      },
+      {
+        "text": "toes.",
+        "start_timestamp": "149.38887",
+        "end_timestamp": "149.64320"
+      },
+      {
+        "text": "What",
+        "start_timestamp": "149.80829",
+        "end_timestamp": "149.95627"
+      },
+      {
+        "text": "about,",
+        "start_timestamp": "150.15920",
+        "end_timestamp": "150.34969"
+      },
+      {
+        "text": "like,",
+        "start_timestamp": "150.73782",
+        "end_timestamp": "150.89554"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "151.08237",
+        "end_timestamp": "151.45587"
+      },
+      {
+        "text": "tech",
+        "start_timestamp": "151.81556",
+        "end_timestamp": "152.24238"
+      },
+      {
+        "text": "stack?",
+        "start_timestamp": "152.52157",
+        "end_timestamp": "152.87708"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "PM",
+    "words": [
+      {
+        "text": "We're",
+        "start_timestamp": "153.96641",
+        "end_timestamp": "154.38068"
+      },
+      {
+        "text": "thinking,",
+        "start_timestamp": "154.83501",
+        "end_timestamp": "155.11668"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "155.53993",
+        "end_timestamp": "155.84628"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "156.27982",
+        "end_timestamp": "156.41972"
+      },
+      {
+        "text": "React",
+        "start_timestamp": "156.68315",
+        "end_timestamp": "157.08821"
+      },
+      {
+        "text": "Native",
+        "start_timestamp": "157.47622",
+        "end_timestamp": "157.76375"
+      },
+      {
+        "text": "for",
+        "start_timestamp": "158.11725",
+        "end_timestamp": "158.54763"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "158.96399",
+        "end_timestamp": "159.21878"
+      },
+      {
+        "text": "app.",
+        "start_timestamp": "159.65080",
+        "end_timestamp": "160.13383"
+      },
+      {
+        "text": "It'll",
+        "start_timestamp": "160.43695",
+        "end_timestamp": "160.92035"
+      },
+      {
+        "text": "give",
+        "start_timestamp": "161.09710",
+        "end_timestamp": "161.25772"
+      },
+      {
+        "text": "us",
+        "start_timestamp": "161.40034",
+        "end_timestamp": "161.85599"
+      },
+      {
+        "text": "the,",
+        "start_timestamp": "162.27337",
+        "end_timestamp": "162.77180"
+      },
+      {
+        "text": "uh,",
+        "start_timestamp": "163.25838",
+        "end_timestamp": "163.42571"
+      },
+      {
+        "text": "flexibility",
+        "start_timestamp": "163.57577",
+        "end_timestamp": "163.86355"
+      },
+      {
+        "text": "to",
+        "start_timestamp": "164.16307",
+        "end_timestamp": "164.52067"
+      },
+      {
+        "text": "target",
+        "start_timestamp": "164.71377",
+        "end_timestamp": "164.85395"
+      },
+      {
+        "text": "both",
+        "start_timestamp": "165.34928",
+        "end_timestamp": "165.63641"
+      },
+      {
+        "text": "iOS",
+        "start_timestamp": "165.79643",
+        "end_timestamp": "166.13947"
+      },
+      {
+        "text": "and",
+        "start_timestamp": "166.62270",
+        "end_timestamp": "166.86212"
+      },
+      {
+        "text": "Android",
+        "start_timestamp": "167.05233",
+        "end_timestamp": "167.39032"
+      },
+      {
+        "text": "without,",
+        "start_timestamp": "167.56058",
+        "end_timestamp": "167.83142"
+      },
+      {
+        "text": "like,",
+        "start_timestamp": "167.97379",
+        "end_timestamp": "168.29299"
+      },
+      {
+        "text": "doubling",
+        "start_timestamp": "168.61310",
+        "end_timestamp": "169.03612"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "169.38317",
+        "end_timestamp": "169.80174"
+      },
+      {
+        "text": "workload.",
+        "start_timestamp": "170.29786",
+        "end_timestamp": "170.61160"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "Casey",
+    "words": [
+      {
+        "text": "Makes",
+        "start_timestamp": "171.96916",
+        "end_timestamp": "172.15861"
+      },
+      {
+        "text": "sense.",
+        "start_timestamp": "172.44638",
+        "end_timestamp": "172.80645"
+      },
+      {
+        "text": "And,",
+        "start_timestamp": "173.22223",
+        "end_timestamp": "173.62783"
+      },
+      {
+        "text": "um,",
+        "start_timestamp": "173.83259",
+        "end_timestamp": "174.31780"
+      },
+      {
+        "text": "for",
+        "start_timestamp": "174.81445",
+        "end_timestamp": "175.06718"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "175.23319",
+        "end_timestamp": "175.66900"
+      },
+      {
+        "text": "backend?",
+        "start_timestamp": "175.81482",
+        "end_timestamp": "176.17872"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "PM",
+    "words": [
+      {
+        "text": "We're",
+        "start_timestamp": "177.74711",
+        "end_timestamp": "178.08192"
+      },
+      {
+        "text": "going",
+        "start_timestamp": "178.47149",
+        "end_timestamp": "178.66286"
+      },
+      {
+        "text": "with",
+        "start_timestamp": "178.82912",
+        "end_timestamp": "178.99040"
+      },
+      {
+        "text": "Node.js.",
+        "start_timestamp": "179.25563",
+        "end_timestamp": "179.38651"
+      },
+      {
+        "text": "It",
+        "start_timestamp": "179.63511",
+        "end_timestamp": "179.78561"
+      },
+      {
+        "text": "should,",
+        "start_timestamp": "180.22405",
+        "end_timestamp": "180.48484"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "180.71947",
+        "end_timestamp": "181.00195"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "181.42194",
+        "end_timestamp": "181.57164"
+      },
+      {
+        "text": "work",
+        "start_timestamp": "181.79274",
+        "end_timestamp": "182.10831"
+      },
+      {
+        "text": "well",
+        "start_timestamp": "182.52663",
+        "end_timestamp": "182.67537"
+      },
+      {
+        "text": "with",
+        "start_timestamp": "183.06911",
+        "end_timestamp": "183.49028"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "183.79697",
+        "end_timestamp": "184.24821"
+      },
+      {
+        "text": "real-time",
+        "start_timestamp": "184.64252",
+        "end_timestamp": "185.13373"
+      },
+      {
+        "text": "data",
+        "start_timestamp": "185.37906",
+        "end_timestamp": "185.75930"
+      },
+      {
+        "text": "we",
+        "start_timestamp": "185.93608",
+        "end_timestamp": "186.39728"
+      },
+      {
+        "text": "need",
+        "start_timestamp": "186.88197",
+        "end_timestamp": "187.16687"
+      },
+      {
+        "text": "for",
+        "start_timestamp": "187.62619",
+        "end_timestamp": "187.93363"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "188.18134",
+        "end_timestamp": "188.29235"
+      },
+      {
+        "text": "personalized",
+        "start_timestamp": "188.47312",
+        "end_timestamp": "188.89428"
+      },
+      {
+        "text": "features.",
+        "start_timestamp": "189.04130",
+        "end_timestamp": "189.24629"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "Alex",
+    "words": [
+      {
+        "text": "Got",
+        "start_timestamp": "190.42966",
+        "end_timestamp": "190.65364"
+      },
+      {
+        "text": "it.",
+        "start_timestamp": "190.77061",
+        "end_timestamp": "191.17494"
+      },
+      {
+        "text": "And,",
+        "start_timestamp": "191.35820",
+        "end_timestamp": "191.64565"
+      },
+      {
+        "text": "uh,",
+        "start_timestamp": "192.10164",
+        "end_timestamp": "192.43595"
+      },
+      {
+        "text": "what",
+        "start_timestamp": "192.73297",
+        "end_timestamp": "193.19505"
+      },
+      {
+        "text": "about",
+        "start_timestamp": "193.50065",
+        "end_timestamp": "193.86986"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "194.03441",
+        "end_timestamp": "194.28872"
+      },
+      {
+        "text": "AR",
+        "start_timestamp": "194.78595",
+        "end_timestamp": "195.16609"
+      },
+      {
+        "text": "part?",
+        "start_timestamp": "195.34785",
+        "end_timestamp": "195.69210"
+      },
+      {
+        "text": "That’s",
+        "start_timestamp": "196.10892",
+        "end_timestamp": "196.21202"
+      },
+      {
+        "text": "not",
+        "start_timestamp": "196.35164",
+        "end_timestamp": "196.73841"
+      },
+      {
+        "text": "really",
+        "start_timestamp": "197.08301",
+        "end_timestamp": "197.29442"
+      },
+      {
+        "text": "our,",
+        "start_timestamp": "197.75300",
+        "end_timestamp": "198.10699"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "198.54786",
+        "end_timestamp": "198.66957"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "199.02561",
+        "end_timestamp": "199.49990"
+      },
+      {
+        "text": "forte.",
+        "start_timestamp": "199.69450",
+        "end_timestamp": "199.79712"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "PM",
+    "words": [
+      {
+        "text": "Yeah,",
+        "start_timestamp": "200.97011",
+        "end_timestamp": "201.41856"
+      },
+      {
+        "text": "that's",
+        "start_timestamp": "201.71044",
+        "end_timestamp": "201.83823"
+      },
+      {
+        "text": "the,",
+        "start_timestamp": "202.07493",
+        "end_timestamp": "202.50077"
+      },
+      {
+        "text": "um,",
+        "start_timestamp": "202.86986",
+        "end_timestamp": "203.29135"
+      },
+      {
+        "text": "challenging",
+        "start_timestamp": "203.53874",
+        "end_timestamp": "203.82416"
+      },
+      {
+        "text": "bit.",
+        "start_timestamp": "204.12896",
+        "end_timestamp": "204.26661"
+      },
+      {
+        "text": "We're",
+        "start_timestamp": "204.61518",
+        "end_timestamp": "204.93229"
+      },
+      {
+        "text": "partnering",
+        "start_timestamp": "205.09648",
+        "end_timestamp": "205.57196"
+      },
+      {
+        "text": "with",
+        "start_timestamp": "205.83813",
+        "end_timestamp": "206.32191"
+      },
+      {
+        "text": "an",
+        "start_timestamp": "206.59315",
+        "end_timestamp": "207.03759"
+      },
+      {
+        "text": "AR",
+        "start_timestamp": "207.16467",
+        "end_timestamp": "207.33099"
+      },
+      {
+        "text": "specialist",
+        "start_timestamp": "207.55054",
+        "end_timestamp": "207.73870"
+      },
+      {
+        "text": "for",
+        "start_timestamp": "207.86278",
+        "end_timestamp": "208.00513"
+      },
+      {
+        "text": "that.",
+        "start_timestamp": "208.27596",
+        "end_timestamp": "208.74345"
+      },
+      {
+        "text": "They'll,",
+        "start_timestamp": "208.90702",
+        "end_timestamp": "209.11738"
+      },
+      {
+        "text": "like,",
+        "start_timestamp": "209.49073",
+        "end_timestamp": "209.94452"
+      },
+      {
+        "text": "handle",
+        "start_timestamp": "210.13682",
+        "end_timestamp": "210.62033"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "210.72907",
+        "end_timestamp": "211.08958"
+      },
+      {
+        "text": "heavy",
+        "start_timestamp": "211.35942",
+        "end_timestamp": "211.51052"
+      },
+      {
+        "text": "lifting",
+        "start_timestamp": "211.61896",
+        "end_timestamp": "212.06087"
+      },
+      {
+        "text": "on",
+        "start_timestamp": "212.16131",
+        "end_timestamp": "212.57874"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "212.86947",
+        "end_timestamp": "213.13594"
+      },
+      {
+        "text": "AR",
+        "start_timestamp": "213.53757",
+        "end_timestamp": "213.93617"
+      },
+      {
+        "text": "module.",
+        "start_timestamp": "214.27115",
+        "end_timestamp": "214.38791"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "Sam",
+    "words": [
+      {
+        "text": "Okay,",
+        "start_timestamp": "217.18639",
+        "end_timestamp": "217.29146"
+      },
+      {
+        "text": "sounds",
+        "start_timestamp": "217.56951",
+        "end_timestamp": "217.72227"
+      },
+      {
+        "text": "like",
+        "start_timestamp": "218.13215",
+        "end_timestamp": "218.41431"
+      },
+      {
+        "text": "we've",
+        "start_timestamp": "218.83432",
+        "end_timestamp": "218.99334"
+      },
+      {
+        "text": "got,",
+        "start_timestamp": "219.26891",
+        "end_timestamp": "219.65215"
+      },
+      {
+        "text": "uh,",
+        "start_timestamp": "220.14663",
+        "end_timestamp": "220.50638"
+      },
+      {
+        "text": "most",
+        "start_timestamp": "220.60834",
+        "end_timestamp": "220.72955"
+      },
+      {
+        "text": "bases",
+        "start_timestamp": "221.16697",
+        "end_timestamp": "221.52093"
+      },
+      {
+        "text": "covered.",
+        "start_timestamp": "221.73682",
+        "end_timestamp": "221.99568"
+      },
+      {
+        "text": "What's",
+        "start_timestamp": "222.29648",
+        "end_timestamp": "222.44675"
+      },
+      {
+        "text": "our",
+        "start_timestamp": "222.74130",
+        "end_timestamp": "223.14476"
+      },
+      {
+        "text": "first",
+        "start_timestamp": "223.37726",
+        "end_timestamp": "223.72284"
+      },
+      {
+        "text": "step?",
+        "start_timestamp": "223.99766",
+        "end_timestamp": "224.24909"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "PM",
+    "words": [
+      {
+        "text": "First",
+        "start_timestamp": "224.39647",
+        "end_timestamp": "224.87995"
+      },
+      {
+        "text": "thing,",
+        "start_timestamp": "225.31720",
+        "end_timestamp": "225.43371"
+      },
+      {
+        "text": "we're",
+        "start_timestamp": "225.57950",
+        "end_timestamp": "225.79790"
+      },
+      {
+        "text": "doing",
+        "start_timestamp": "226.26601",
+        "end_timestamp": "226.45037"
+      },
+      {
+        "text": "a,",
+        "start_timestamp": "226.84390",
+        "end_timestamp": "226.96821"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "227.12864",
+        "end_timestamp": "227.51232"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "227.69971",
+        "end_timestamp": "227.82776"
+      },
+      {
+        "text": "a",
+        "start_timestamp": "227.95713",
+        "end_timestamp": "228.07942"
+      },
+      {
+        "text": "deep",
+        "start_timestamp": "228.55086",
+        "end_timestamp": "228.82504"
+      },
+      {
+        "text": "dive",
+        "start_timestamp": "228.94125",
+        "end_timestamp": "229.14329"
+      },
+      {
+        "text": "into",
+        "start_timestamp": "229.59167",
+        "end_timestamp": "229.91700"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "230.31374",
+        "end_timestamp": "230.45654"
+      },
+      {
+        "text": "client's",
+        "start_timestamp": "230.67506",
+        "end_timestamp": "231.05972"
+      },
+      {
+        "text": "current",
+        "start_timestamp": "231.48743",
+        "end_timestamp": "231.66905"
+      },
+      {
+        "text": "system",
+        "start_timestamp": "231.92694",
+        "end_timestamp": "232.39637"
+      },
+      {
+        "text": "next",
+        "start_timestamp": "232.76394",
+        "end_timestamp": "233.07692"
+      },
+      {
+        "text": "week.",
+        "start_timestamp": "233.33968",
+        "end_timestamp": "233.76875"
+      },
+      {
+        "text": "We",
+        "start_timestamp": "233.87299",
+        "end_timestamp": "234.28943"
+      },
+      {
+        "text": "need",
+        "start_timestamp": "234.74653",
+        "end_timestamp": "235.12890"
+      },
+      {
+        "text": "to",
+        "start_timestamp": "235.23038",
+        "end_timestamp": "235.40779"
+      },
+      {
+        "text": "understand",
+        "start_timestamp": "235.89964",
+        "end_timestamp": "236.27635"
+      },
+      {
+        "text": "their",
+        "start_timestamp": "236.75294",
+        "end_timestamp": "237.22685"
+      },
+      {
+        "text": "inventory",
+        "start_timestamp": "237.33944",
+        "end_timestamp": "237.60496"
+      },
+      {
+        "text": "and,",
+        "start_timestamp": "237.94578",
+        "end_timestamp": "238.21015"
+      },
+      {
+        "text": "uh,",
+        "start_timestamp": "238.35326",
+        "end_timestamp": "238.76148"
+      },
+      {
+        "text": "user",
+        "start_timestamp": "239.08250",
+        "end_timestamp": "239.33485"
+      },
+      {
+        "text": "data",
+        "start_timestamp": "239.50945",
+        "end_timestamp": "239.96120"
+      },
+      {
+        "text": "structure",
+        "start_timestamp": "240.37361",
+        "end_timestamp": "240.58376"
+      },
+      {
+        "text": "to",
+        "start_timestamp": "240.68978",
+        "end_timestamp": "241.02886"
+      },
+      {
+        "text": "integrate",
+        "start_timestamp": "241.31075",
+        "end_timestamp": "241.52545"
+      },
+      {
+        "text": "it",
+        "start_timestamp": "241.95280",
+        "end_timestamp": "242.23852"
+      },
+      {
+        "text": "with",
+        "start_timestamp": "242.50339",
+        "end_timestamp": "242.67203"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "242.98277",
+        "end_timestamp": "243.34613"
+      },
+      {
+        "text": "app.",
+        "start_timestamp": "243.68099",
+        "end_timestamp": "244.06131"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "Jordan",
+    "words": [
+      {
+        "text": "Integration,",
+        "start_timestamp": "245.63270",
+        "end_timestamp": "245.98725"
+      },
+      {
+        "text": "huh?",
+        "start_timestamp": "246.24963",
+        "end_timestamp": "246.74529"
+      },
+      {
+        "text": "That",
+        "start_timestamp": "246.94565",
+        "end_timestamp": "247.43182"
+      },
+      {
+        "text": "can",
+        "start_timestamp": "247.73771",
+        "end_timestamp": "248.08962"
+      },
+      {
+        "text": "be,",
+        "start_timestamp": "248.44461",
+        "end_timestamp": "248.62414"
+      },
+      {
+        "text": "like,",
+        "start_timestamp": "249.07299",
+        "end_timestamp": "249.24043"
+      },
+      {
+        "text": "tricky.",
+        "start_timestamp": "249.59217",
+        "end_timestamp": "249.95376"
+      },
+      {
+        "text": "Hope",
+        "start_timestamp": "250.41129",
+        "end_timestamp": "250.57579"
+      },
+      {
+        "text": "their",
+        "start_timestamp": "250.75068",
+        "end_timestamp": "251.00657"
+      },
+      {
+        "text": "system",
+        "start_timestamp": "251.39846",
+        "end_timestamp": "251.87035"
+      },
+      {
+        "text": "is,",
+        "start_timestamp": "252.28067",
+        "end_timestamp": "252.39250"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "252.54008",
+        "end_timestamp": "252.64853"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "252.95541",
+        "end_timestamp": "253.32599"
+      },
+      {
+        "text": "up",
+        "start_timestamp": "253.46065",
+        "end_timestamp": "253.63438"
+      },
+      {
+        "text": "to",
+        "start_timestamp": "253.87633",
+        "end_timestamp": "254.21665"
+      },
+      {
+        "text": "date.",
+        "start_timestamp": "254.71483",
+        "end_timestamp": "254.87602"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "PM",
+    "words": [
+      {
+        "text": "Yeah,",
+        "start_timestamp": "256.77969",
+        "end_timestamp": "257.23245"
+      },
+      {
+        "text": "I",
+        "start_timestamp": "257.64259",
+        "end_timestamp": "257.81562"
+      },
+      {
+        "text": "hear",
+        "start_timestamp": "258.21783",
+        "end_timestamp": "258.32510"
+      },
+      {
+        "text": "you.",
+        "start_timestamp": "258.82437",
+        "end_timestamp": "259.23210"
+      },
+      {
+        "text": "But,",
+        "start_timestamp": "259.46176",
+        "end_timestamp": "259.73675"
+      },
+      {
+        "text": "um,",
+        "start_timestamp": "260.02701",
+        "end_timestamp": "260.49886"
+      },
+      {
+        "text": "they",
+        "start_timestamp": "260.71631",
+        "end_timestamp": "261.00770"
+      },
+      {
+        "text": "assured",
+        "start_timestamp": "261.34192",
+        "end_timestamp": "261.59769"
+      },
+      {
+        "text": "us",
+        "start_timestamp": "261.80850",
+        "end_timestamp": "262.24454"
+      },
+      {
+        "text": "it's",
+        "start_timestamp": "262.72188",
+        "end_timestamp": "263.18839"
+      },
+      {
+        "text": "all",
+        "start_timestamp": "263.67454",
+        "end_timestamp": "263.78672"
+      },
+      {
+        "text": "modern",
+        "start_timestamp": "264.16117",
+        "end_timestamp": "264.27991"
+      },
+      {
+        "text": "tech.",
+        "start_timestamp": "264.57932",
+        "end_timestamp": "264.85447"
+      },
+      {
+        "text": "We'll,",
+        "start_timestamp": "265.27211",
+        "end_timestamp": "265.49668"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "265.99043",
+        "end_timestamp": "266.22943"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "266.66280",
+        "end_timestamp": "266.97802"
+      },
+      {
+        "text": "see",
+        "start_timestamp": "267.32677",
+        "end_timestamp": "267.52330"
+      },
+      {
+        "text": "for",
+        "start_timestamp": "267.81428",
+        "end_timestamp": "268.22524"
+      },
+      {
+        "text": "ourselves",
+        "start_timestamp": "268.54768",
+        "end_timestamp": "268.73010"
+      },
+      {
+        "text": "soon",
+        "start_timestamp": "269.21993",
+        "end_timestamp": "269.60306"
+      },
+      {
+        "text": "enough.",
+        "start_timestamp": "269.76772",
+        "end_timestamp": "270.11871"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "Casey",
+    "words": [
+      {
+        "text": "And,",
+        "start_timestamp": "272.11283",
+        "end_timestamp": "272.51881"
+      },
+      {
+        "text": "um,",
+        "start_timestamp": "272.65981",
+        "end_timestamp": "272.99167"
+      },
+      {
+        "text": "what",
+        "start_timestamp": "273.13440",
+        "end_timestamp": "273.32705"
+      },
+      {
+        "text": "about",
+        "start_timestamp": "273.54508",
+        "end_timestamp": "273.67121"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "274.15810",
+        "end_timestamp": "274.34818"
+      },
+      {
+        "text": "design?",
+        "start_timestamp": "274.47294",
+        "end_timestamp": "274.74728"
+      },
+      {
+        "text": "Are",
+        "start_timestamp": "275.10774",
+        "end_timestamp": "275.22761"
+      },
+      {
+        "text": "we,",
+        "start_timestamp": "275.65410",
+        "end_timestamp": "275.89540"
+      },
+      {
+        "text": "like,",
+        "start_timestamp": "276.38969",
+        "end_timestamp": "276.62562"
+      },
+      {
+        "text": "creating",
+        "start_timestamp": "276.76951",
+        "end_timestamp": "277.23693"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "277.63020",
+        "end_timestamp": "277.87024"
+      },
+      {
+        "text": "UI/UX",
+        "start_timestamp": "278.20700",
+        "end_timestamp": "278.44321"
+      },
+      {
+        "text": "from",
+        "start_timestamp": "278.55706",
+        "end_timestamp": "279.05604"
+      },
+      {
+        "text": "scratch?",
+        "start_timestamp": "279.26352",
+        "end_timestamp": "279.52119"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "PM",
+    "words": [
+      {
+        "text": "Yep,",
+        "start_timestamp": "279.96103",
+        "end_timestamp": "280.31536"
+      },
+      {
+        "text": "that's",
+        "start_timestamp": "280.79261",
+        "end_timestamp": "281.23205"
+      },
+      {
+        "text": "all",
+        "start_timestamp": "281.49967",
+        "end_timestamp": "281.75400"
+      },
+      {
+        "text": "us.",
+        "start_timestamp": "282.05742",
+        "end_timestamp": "282.41988"
+      },
+      {
+        "text": "We've",
+        "start_timestamp": "282.73397",
+        "end_timestamp": "282.93661"
+      },
+      {
+        "text": "got",
+        "start_timestamp": "283.04880",
+        "end_timestamp": "283.24329"
+      },
+      {
+        "text": "full",
+        "start_timestamp": "283.38661",
+        "end_timestamp": "283.49671"
+      },
+      {
+        "text": "creative,",
+        "start_timestamp": "283.84471",
+        "end_timestamp": "284.15023"
+      },
+      {
+        "text": "uh,",
+        "start_timestamp": "284.52631",
+        "end_timestamp": "284.77248"
+      },
+      {
+        "text": "control.",
+        "start_timestamp": "285.24725",
+        "end_timestamp": "285.51189"
+      },
+      {
+        "text": "They",
+        "start_timestamp": "285.75958",
+        "end_timestamp": "286.02841"
+      },
+      {
+        "text": "want",
+        "start_timestamp": "286.44547",
+        "end_timestamp": "286.65949"
+      },
+      {
+        "text": "something",
+        "start_timestamp": "286.86711",
+        "end_timestamp": "286.96743"
+      },
+      {
+        "text": "fresh,",
+        "start_timestamp": "287.18671",
+        "end_timestamp": "287.61134"
+      },
+      {
+        "text": "so,",
+        "start_timestamp": "288.10242",
+        "end_timestamp": "288.39135"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "288.78930",
+        "end_timestamp": "289.04653"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "289.23484",
+        "end_timestamp": "289.56560"
+      },
+      {
+        "text": "let's",
+        "start_timestamp": "289.88771",
+        "end_timestamp": "290.09100"
+      },
+      {
+        "text": "get",
+        "start_timestamp": "290.55155",
+        "end_timestamp": "290.88110"
+      },
+      {
+        "text": "those",
+        "start_timestamp": "291.33829",
+        "end_timestamp": "291.59188"
+      },
+      {
+        "text": "creative",
+        "start_timestamp": "291.92502",
+        "end_timestamp": "292.36660"
+      },
+      {
+        "text": "juices",
+        "start_timestamp": "292.53777",
+        "end_timestamp": "292.81470"
+      },
+      {
+        "text": "flowing.",
+        "start_timestamp": "293.04794",
+        "end_timestamp": "293.44196"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "Alex",
+    "words": [
+      {
+        "text": "Nice,",
+        "start_timestamp": "295.11542",
+        "end_timestamp": "295.60203"
+      },
+      {
+        "text": "that’s",
+        "start_timestamp": "296.02167",
+        "end_timestamp": "296.35847"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "296.83476",
+        "end_timestamp": "297.08080"
+      },
+      {
+        "text": "part",
+        "start_timestamp": "297.51307",
+        "end_timestamp": "297.95589"
+      },
+      {
+        "text": "I,",
+        "start_timestamp": "298.16710",
+        "end_timestamp": "298.59308"
+      },
+      {
+        "text": "like,",
+        "start_timestamp": "299.00919",
+        "end_timestamp": "299.37051"
+      },
+      {
+        "text": "really",
+        "start_timestamp": "299.58748",
+        "end_timestamp": "299.93108"
+      },
+      {
+        "text": "enjoy.",
+        "start_timestamp": "300.16860",
+        "end_timestamp": "300.66502"
+      },
+      {
+        "text": "Count",
+        "start_timestamp": "300.96841",
+        "end_timestamp": "301.41884"
+      },
+      {
+        "text": "me",
+        "start_timestamp": "301.79142",
+        "end_timestamp": "301.95250"
+      },
+      {
+        "text": "in",
+        "start_timestamp": "302.11471",
+        "end_timestamp": "302.56753"
+      },
+      {
+        "text": "for",
+        "start_timestamp": "302.75000",
+        "end_timestamp": "302.99355"
+      },
+      {
+        "text": "some",
+        "start_timestamp": "303.26378",
+        "end_timestamp": "303.60390"
+      },
+      {
+        "text": "of",
+        "start_timestamp": "304.06301",
+        "end_timestamp": "304.17765"
+      },
+      {
+        "text": "those",
+        "start_timestamp": "304.40259",
+        "end_timestamp": "304.82334"
+      },
+      {
+        "text": "brainstorming",
+        "start_timestamp": "305.19865",
+        "end_timestamp": "305.38824"
+      },
+      {
+        "text": "sessions!",
+        "start_timestamp": "305.86397",
+        "end_timestamp": "306.32337"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "Sam",
+    "words": [
+      {
+        "text": "Before",
+        "start_timestamp": "309.06232",
+        "end_timestamp": "309.38354"
+      },
+      {
+        "text": "we,",
+        "start_timestamp": "309.73157",
+        "end_timestamp": "310.19600"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "310.46274",
+        "end_timestamp": "310.61902"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "311.11594",
+        "end_timestamp": "311.31774"
+      },
+      {
+        "text": "get",
+        "start_timestamp": "311.54218",
+        "end_timestamp": "311.88052"
+      },
+      {
+        "text": "too",
+        "start_timestamp": "312.23353",
+        "end_timestamp": "312.59676"
+      },
+      {
+        "text": "deep",
+        "start_timestamp": "313.00222",
+        "end_timestamp": "313.10526"
+      },
+      {
+        "text": "into",
+        "start_timestamp": "313.53583",
+        "end_timestamp": "313.80306"
+      },
+      {
+        "text": "planning,",
+        "start_timestamp": "314.05852",
+        "end_timestamp": "314.27645"
+      },
+      {
+        "text": "can",
+        "start_timestamp": "314.44761",
+        "end_timestamp": "314.75076"
+      },
+      {
+        "text": "we",
+        "start_timestamp": "314.86823",
+        "end_timestamp": "315.16624"
+      },
+      {
+        "text": "talk",
+        "start_timestamp": "315.55527",
+        "end_timestamp": "315.68351"
+      },
+      {
+        "text": "budget",
+        "start_timestamp": "316.09103",
+        "end_timestamp": "316.51775"
+      },
+      {
+        "text": "and",
+        "start_timestamp": "316.82862",
+        "end_timestamp": "317.20132"
+      },
+      {
+        "text": "resources?",
+        "start_timestamp": "317.51035",
+        "end_timestamp": "317.80809"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "PM",
+    "words": [
+      {
+        "text": "Absolutely,",
+        "start_timestamp": "317.60186",
+        "end_timestamp": "317.72213"
+      },
+      {
+        "text": "that's,",
+        "start_timestamp": "318.05190",
+        "end_timestamp": "318.18007"
+      },
+      {
+        "text": "uh,",
+        "start_timestamp": "318.50534",
+        "end_timestamp": "318.95434"
+      },
+      {
+        "text": "on",
+        "start_timestamp": "319.16500",
+        "end_timestamp": "319.32619"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "319.63873",
+        "end_timestamp": "320.02238"
+      },
+      {
+        "text": "agenda",
+        "start_timestamp": "320.39272",
+        "end_timestamp": "320.64135"
+      },
+      {
+        "text": "for",
+        "start_timestamp": "321.01187",
+        "end_timestamp": "321.43720"
+      },
+      {
+        "text": "our",
+        "start_timestamp": "321.64681",
+        "end_timestamp": "322.05336"
+      },
+      {
+        "text": "next",
+        "start_timestamp": "322.42014",
+        "end_timestamp": "322.77967"
+      },
+      {
+        "text": "meeting.",
+        "start_timestamp": "322.95604",
+        "end_timestamp": "323.41281"
+      },
+      {
+        "text": "I'll",
+        "start_timestamp": "323.65539",
+        "end_timestamp": "323.86943"
+      },
+      {
+        "text": "have",
+        "start_timestamp": "324.07966",
+        "end_timestamp": "324.27315"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "324.75285",
+        "end_timestamp": "324.86709"
+      },
+      {
+        "text": "full",
+        "start_timestamp": "325.05803",
+        "end_timestamp": "325.42289"
+      },
+      {
+        "text": "budget",
+        "start_timestamp": "325.86888",
+        "end_timestamp": "326.33900"
+      },
+      {
+        "text": "breakdown",
+        "start_timestamp": "326.44219",
+        "end_timestamp": "326.81030"
+      },
+      {
+        "text": "and,",
+        "start_timestamp": "327.18959",
+        "end_timestamp": "327.68265"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "327.92573",
+        "end_timestamp": "328.02684"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "328.48815",
+        "end_timestamp": "328.85554"
+      },
+      {
+        "text": "resource",
+        "start_timestamp": "329.17537",
+        "end_timestamp": "329.31358"
+      },
+      {
+        "text": "allocation",
+        "start_timestamp": "329.77768",
+        "end_timestamp": "330.14074"
+      },
+      {
+        "text": "ready",
+        "start_timestamp": "330.36721",
+        "end_timestamp": "330.66381"
+      },
+      {
+        "text": "by",
+        "start_timestamp": "330.85064",
+        "end_timestamp": "331.19757"
+      },
+      {
+        "text": "then.",
+        "start_timestamp": "331.45842",
+        "end_timestamp": "331.69188"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "Jordan",
+    "words": [
+      {
+        "text": "Perfect.",
+        "start_timestamp": "332.93164",
+        "end_timestamp": "333.10996"
+      },
+      {
+        "text": "I'm,",
+        "start_timestamp": "333.24562",
+        "end_timestamp": "333.70103"
+      },
+      {
+        "text": "like,",
+        "start_timestamp": "333.97008",
+        "end_timestamp": "334.09924"
+      },
+      {
+        "text": "really",
+        "start_timestamp": "334.28641",
+        "end_timestamp": "334.42228"
+      },
+      {
+        "text": "looking",
+        "start_timestamp": "334.67434",
+        "end_timestamp": "335.17036"
+      },
+      {
+        "text": "forward",
+        "start_timestamp": "335.35387",
+        "end_timestamp": "335.83786"
+      },
+      {
+        "text": "to",
+        "start_timestamp": "336.03338",
+        "end_timestamp": "336.49329"
+      },
+      {
+        "text": "getting",
+        "start_timestamp": "336.73497",
+        "end_timestamp": "336.97142"
+      },
+      {
+        "text": "started",
+        "start_timestamp": "337.19059",
+        "end_timestamp": "337.58521"
+      },
+      {
+        "text": "on",
+        "start_timestamp": "338.05745",
+        "end_timestamp": "338.22734"
+      },
+      {
+        "text": "this.",
+        "start_timestamp": "338.63580",
+        "end_timestamp": "338.88663"
+      }
+    ]
+  },
+  {
+    "language": "en",
+    "speaker": "PM",
+    "words": [
+      {
+        "text": "Great!",
+        "start_timestamp": "338.59733",
+        "end_timestamp": "338.78836"
+      },
+      {
+        "text": "I'll",
+        "start_timestamp": "339.08784",
+        "end_timestamp": "339.21761"
+      },
+      {
+        "text": "send",
+        "start_timestamp": "339.60908",
+        "end_timestamp": "339.85983"
+      },
+      {
+        "text": "out",
+        "start_timestamp": "340.27175",
+        "end_timestamp": "340.51646"
+      },
+      {
+        "text": "invites",
+        "start_timestamp": "340.66775",
+        "end_timestamp": "340.93496"
+      },
+      {
+        "text": "for",
+        "start_timestamp": "341.38152",
+        "end_timestamp": "341.70015"
+      },
+      {
+        "text": "the,",
+        "start_timestamp": "341.87788",
+        "end_timestamp": "342.13596"
+      },
+      {
+        "text": "um,",
+        "start_timestamp": "342.42393",
+        "end_timestamp": "342.54465"
+      },
+      {
+        "text": "deep",
+        "start_timestamp": "342.83078",
+        "end_timestamp": "343.16598"
+      },
+      {
+        "text": "dive",
+        "start_timestamp": "343.40924",
+        "end_timestamp": "343.57938"
+      },
+      {
+        "text": "session.",
+        "start_timestamp": "343.77592",
+        "end_timestamp": "343.93188"
+      },
+      {
+        "text": "Let's,",
+        "start_timestamp": "344.35559",
+        "end_timestamp": "344.71713"
+      },
+      {
+        "text": "you",
+        "start_timestamp": "344.90371",
+        "end_timestamp": "345.39079"
+      },
+      {
+        "text": "know,",
+        "start_timestamp": "345.52643",
+        "end_timestamp": "345.90531"
+      },
+      {
+        "text": "hit",
+        "start_timestamp": "346.07753",
+        "end_timestamp": "346.21440"
+      },
+      {
+        "text": "the",
+        "start_timestamp": "346.58118",
+        "end_timestamp": "346.98871"
+      },
+      {
+        "text": "ground",
+        "start_timestamp": "347.27977",
+        "end_timestamp": "347.39219"
+      },
+      {
+        "text": "running",
+        "start_timestamp": "347.65924",
+        "end_timestamp": "347.82779"
+      },
+      {
+        "text": "and",
+        "start_timestamp": "347.99903",
+        "end_timestamp": "348.21458"
+      },
+      {
+        "text": "make",
+        "start_timestamp": "348.32931",
+        "end_timestamp": "348.81278"
+      },
+      {
+        "text": "this",
+        "start_timestamp": "348.98041",
+        "end_timestamp": "349.41054"
+      },
+      {
+        "text": "app",
+        "start_timestamp": "349.52065",
+        "end_timestamp": "349.77241"
+      },
+      {
+        "text": "something",
+        "start_timestamp": "349.95123",
+        "end_timestamp": "350.28746"
+      },
+      {
+        "text": "we're",
+        "start_timestamp": "350.62567",
+        "end_timestamp": "351.02720"
+      },
+      {
+        "text": "all",
+        "start_timestamp": "351.38668",
+        "end_timestamp": "351.51637"
+      },
+      {
+        "text": "proud",
+        "start_timestamp": "351.85959",
+        "end_timestamp": "352.32707"
+      },
+      {
+        "text": "of.",
+        "start_timestamp": "352.73741",
+        "end_timestamp": "353.08229"
+      },
+      {
+        "text": "Thanks,",
+        "start_timestamp": "353.44164",
+        "end_timestamp": "353.66756"
+      },
+      {
+        "text": "team!",
+        "start_timestamp": "354.03529",
+        "end_timestamp": "354.26588"
+      }
+    ]
+  }
+]

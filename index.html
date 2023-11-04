@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'"
+    />
+    <meta
+      http-equiv="X-Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'"
+    />
+    <title>The sickest program u have ever seen</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js" defer></script>
+  </head>
+  <body>
+    <input type="file" id="fileInp">
+    <div id="skills">
+        <h1>Select your skills to measure:</h1>
+        <input type="checkbox" id="presentation" name="presentation" />
+        <label for="presentation">Presentation</label>
+        <input type="checkbox" id="listenContribute" name="listenContribute" />
+        <label for="listenContribute">Listening/Contribution</label>
+        <input type="checkbox" id="fillerWords" name="fillerWords" />
+        <label for="fillerWords">Filler Words</label>
+        <input type="checkbox" id="resilience" name="resilience" />
+        <label for="resilience">Resilience</label>
+    </div>
+    <button id="run">Run</button>
+    <div id="output">
+        
+    </div>
+  </body>
+</html>

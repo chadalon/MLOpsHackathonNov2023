@@ -1,0 +1,20 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "openai": "^4.0.0",
+    "python-shell": "^5.0.0"
+  },
+  "devDependencies": {
+    "electron": "^27.0.3"
+  }
+}
